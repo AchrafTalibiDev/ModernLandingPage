@@ -1,2 +1,4 @@
 # ModernLandingPage
-A modern react landing page template
+A modern simple react landing page template </br>
+
+#JQuery #JSX #Bootstrap #FreeCSS #React #YarnPackageManager
