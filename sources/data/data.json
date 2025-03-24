@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "We are a Landing Page",
+    "paragraph": "Modern Landing page created by our team. Based on React !! "
+  },
+  "About": {
+    "paragraph": "Team of Specialists",
+    "Why": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Why2": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Title Project 1",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-large.jpg"
+    },
+    {
+      "title": "Title Project 2",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Title Project 3",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Title Project 4",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Title Project 5",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Title Project 6",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Title Project 7",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Title Project 8",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Title Project 9",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Service 1",
+      "text": "Service 1 summury."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Service 2",
+      "text": "Service 2 summury."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Service 3",
+      "text": "Service 3 summury."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Service 4",
+      "text": "Service 4 summury."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Service 5",
+      "text": "Service 5 summury."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Service 6",
+      "text": "Service 6 summury."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "FeedBack 1",
+      "name": "Client 1"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "FeedBack 2",
+      "name": "Client 2"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "FeedBack 3",
+      "name": "Client 3"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "FeedBack 4",
+      "name": "Client 4"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "FeedBack 5",
+      "name": "Client 5"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "FeedBack 6",
+      "name": "Client 6"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Achraf",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mohammed",
+      "job": "CEO"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Maria",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Sarah",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "1 Rue de Rue N°, Casablanca, MAROC",
+    "phone": "+212 606060606",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "1",
+      "text": "1."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "2",
+      "text": "2"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "3",
+      "text": "3"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "4",
+      "text": "4"
+    }
+  ]
+}
